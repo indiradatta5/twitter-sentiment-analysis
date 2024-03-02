@@ -1,4 +1,3 @@
-# twitter-sentiment-analysis
 # Company Sentiment Analysis
 
 ## Overview
